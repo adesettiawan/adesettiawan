@@ -6,8 +6,11 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ade-settiawan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/mdln.dev)](https://www.instagram.com/mdln.dev)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adesetiawan0675@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://adesettiawan.netlify.app)](https://adesettiawan.netlify.app)
 [![Github](https://img.shields.io/github/followers/adesettiawan?label=Follow&style=social)](https://github.com/adesettiawan)
+
+<!--
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://adesettiawan.netlify.app)](https://adesettiawan.netlify.app)
+-->
 
 <!--
 - 💻 Owner of [**PyTopia**](https://github.com/pytopia) github organization. Check it out for daily Python and Machine Learning contents.
