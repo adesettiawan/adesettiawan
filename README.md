@@ -8,9 +8,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adesetiawan0675@gmail.com)
 [![Github](https://img.shields.io/github/followers/adesettiawan?label=Follow&style=social)](https://github.com/adesettiawan)
 
-#### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=adesettiawan&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=adesettiawan&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adesettiawan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!--
