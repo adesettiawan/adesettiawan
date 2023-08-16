@@ -8,11 +8,11 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adesetiawan0675@gmail.com)
 [![Github](https://img.shields.io/github/followers/adesettiawan?label=Follow&style=social)](https://github.com/adesettiawan)
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=adesettiawan&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adesettiawan&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adesettiawan&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <!--
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://adesettiawan.netlify.app)](https://adesettiawan.netlify.app)
