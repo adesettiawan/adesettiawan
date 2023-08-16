@@ -9,13 +9,14 @@
 [![Github](https://img.shields.io/github/followers/adesettiawan?label=Follow&style=social)](https://github.com/adesettiawan)
 
 
-<img height=200 width=200 src="https://github-readme-stats.vercel.app/api?username=adesettiawan&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+<img height=100 width=100 src="https://github-readme-stats.vercel.app/api?username=adesettiawan&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
 
-![](https://github-readme-stats.vercel.app/api?username=adesettiawan&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adesettiawan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!--
+![](https://github-readme-stats.vercel.app/api?username=adesettiawan&theme=default&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adesettiawan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://adesettiawan.netlify.app)](https://adesettiawan.netlify.app)
 -->
 
