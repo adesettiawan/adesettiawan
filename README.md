@@ -39,9 +39,6 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=adesettiawan&" alt="adesettiawan" />
 </div> -->
 
-<!-- ### Hi there, I'm Ade Setiawan 👋 -->
-
-
 <!--
 **adesettiawan/adesettiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
