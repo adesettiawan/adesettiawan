@@ -9,19 +9,12 @@
 [![Github](https://img.shields.io/github/followers/adesettiawan?label=Follow&style=social)](https://github.com/adesettiawan)
 
 
-![](https://github-readme-stats.vercel.app/api?username=adesettiawan&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adesettiawan&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 
 <!--
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://adesettiawan.netlify.app)](https://adesettiawan.netlify.app)
--->
-
-<!--
-- 💻 Owner of [**PyTopia**](https://github.com/pytopia) github organization. Check it out for daily Python and Machine Learning contents.
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
-- 🌱 I also teach Python, Machine Learning, Git, etc. Visit PyTopia website, [Pytopia.ai](https://www.pytopia.ai), and also my [teaching material](https://github.com/pytopia).
-- 📫 How to reach me: hejazizo@ualberta.ca
+- 💻 Owner of
+- 🤔 I’m currently reading 
+- 🌱 I also teach Python,
+- 📫 How to reach me: 
 
 
 ### 🖥 Skills
@@ -32,12 +25,6 @@
 - Computer Vision
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=social&logo=Docker&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=social&logo=Kubernetes&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=social&logo=TensorFlow&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=social&logo=PyTorch&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=social&logo=Scikit-Learn&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=social&logo=MongoDB&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=social&logo=MySQL&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=social&logo=PostgreSQL&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=social&logo=Pandas&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=social&logo=Numpy&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=social&logo=Matplotlib&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=social&logo=Flask&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=social&logo=Django&color=100f0f) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=Visual-Studio-Code&color=100f0f)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adesettiawan&show_icons=true&locale=en&layout=compact" alt="adesettiawan" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=adesettiawan&" alt="adesettiawan" />
-</div> -->
 
 <!--
 **adesettiawan/adesettiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
